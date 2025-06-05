@@ -1,0 +1,12 @@
+body{
+    background-image: url(/images/heart_ribbon.jpg);
+}
+h1{
+    color: #e91e0e;
+    text-align: center;
+}
+h2{
+    color: hsl(305, 93%, 53%);
+    font-family: cursive;
+    background-color: gray;
+}
